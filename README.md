@@ -1,5 +1,5 @@
 ### Hello there. I'm Shiyaam Sunder 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/shiyaamsunder?label=Follow%20Me&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shiyaamsunder?label=Follow%20Me&style=social)[twitter]
 
 
 
