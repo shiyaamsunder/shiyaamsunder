@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <br/>
 
 # :zap: Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyaamsunder&layout=compact)](https://github.com/harshsavasil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyaamsunder&layout=compact)]
 
 [twitter]: https://twitter.com/shiyaamsunder
