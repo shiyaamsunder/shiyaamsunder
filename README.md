@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+
+# :zap: Github Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
+
+[twitter]: https://twitter.com/shiyaamsunder
