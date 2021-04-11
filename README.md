@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a [React Twitch Clone](https://github.com/shiyaamsunder/twitch-react-clone)
+- 🔭 I’m currently working on a [Instagram Clone](https://github.com/shiyaamsunder/fotogram)
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on some cool React projects
 - 💬 Ask me about Front-End Development
