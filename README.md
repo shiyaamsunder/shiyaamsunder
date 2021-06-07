@@ -2,6 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shiyaamsunder?label=Follow%20Me&style=social)][twitter]
 
+![](https://visitor-badge.glitch.me/badge?page_id=shiyaamsunder.shiyaamsunder)
+
+**Languages and Tools:**
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a [Instagram Clone](https://github.com/shiyaamsunder/fotogram)
@@ -10,16 +14,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-End Development
 - ⚡ Fun fact: JavaScript was created in 10 days only and when released, it used to cover a very small portion of a proper programming language.
 
-### Connect with me:
-
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br/>
-
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 # :zap: Github Stats
