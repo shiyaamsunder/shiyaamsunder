@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # :zap: Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true)](https://github.com/github-readme-stats)
 
