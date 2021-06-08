@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: JavaScript was created in 10 days only and when released, it used to cover a very small portion of a proper programming language.
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 3 mins     ███████████████████░░░░░░   76.44 % 
+Markdown     13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+```
 <!--END_SECTION:waka-->
 
 # :zap: Github Stats
