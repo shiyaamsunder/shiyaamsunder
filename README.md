@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shiyaamsunder?label=Follow%20Me&style=social)][twitter]
 
-![](https://visitor-badge.glitch.me/badge?page_id=shiyaamsunder.shiyaamsunder)
+![](https://visitor-badge.glitch.me/badge?page_id=shiyaamsunder)
 
 **Languages and Tools:**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a [Breaking Bad GraphQL API](https://github.com/shiyaamsunder/brba-graphql-api)
+- 🔭 I’m currently working on [Breaking Bad GraphQL API](https://github.com/shiyaamsunder/brba-graphql-api)
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on some cool React projects
 - 💬 Ask me about Front-End Development
