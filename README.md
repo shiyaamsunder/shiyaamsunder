@@ -28,6 +28,6 @@ Markdown     10 mins         ░░░░░░░░░░░░░░░░░
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyaamsunder&show_icons=true&count_private=true&theme=nightowl)](https://github.com/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyaamsunder&layout=compact&theme=nightowl)](https://github.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyaamsunder&count_private=true&layout=compact&theme=nightowl)](https://github.com/github-readme-stats)
 
 [twitter]: https://twitter.com/shiyaamsunder
