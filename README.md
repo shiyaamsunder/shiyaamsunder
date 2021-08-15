@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Breaking Bad GraphQL API](https://github.com/shiyaamsunder/brba-graphql-api)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/shiyaamsunder/portfolio)
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on some cool React projects
 - 💬 Ask me about Front-End Development
