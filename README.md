@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 30 mins  ██████████████████████▒░░   89.28 % 
-Rust         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-TypeScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JavaScript   5 hrs 21 mins   █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
