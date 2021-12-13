@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 21 mins   █████████████████████████   99.89 % 
+JavaScript   4 hrs 55 mins   ██████████████████████▒░░   89.26 % 
+Other        20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
 
