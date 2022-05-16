@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 48 mins   ██████████████░░░░░░░░░░░   55.39 %
-Rust         48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Other        41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+PHP     58 mins         ████████████████████████▓   98.20 %
+JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
