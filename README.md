@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP     58 mins         ████████████████████████▓   98.20 %
-JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   2 hrs 36 mins   ████████████████████▓░░░░   82.04 %
+Rust         32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
