@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 36 mins   ████████████████████▓░░░░   82.04 %
-Rust         32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   1 hr 14 mins    ██████████████████▒░░░░░░   73.10 %
+Groovy       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
