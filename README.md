@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 14 mins    ██████████████████▒░░░░░░   73.10 %
-Groovy       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
