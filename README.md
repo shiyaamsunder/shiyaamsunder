@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other        5 hrs 30 mins   ██████████████░░░░░░░░░░░   55.88 %
+C++          2 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   40.31 %
+C            1 hr 17 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+TypeScript   54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+JSON         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
