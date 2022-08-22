@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua          8 hrs 11 mins   █████████████████░░░░░░░░   67.71 %
-C++          2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-resolv       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Other        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Lua          5 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.60 %
+TypeScript   4 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+C++          2 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Other        1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
 ```
 
 <!--END_SECTION:waka-->
