@@ -47,11 +47,8 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 mins          █████████████▒░░░░░░░░░░░   53.52 %
-Lua          3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-Markdown     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+C      56 mins         ██████████████████████▓░░   91.20 %
+JSON   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 ```
 
 <!--END_SECTION:waka-->
