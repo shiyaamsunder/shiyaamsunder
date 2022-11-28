@@ -47,11 +47,12 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 <!--START_SECTION:waka-->
 
 ```text
-C            10 mins         ████████████▓░░░░░░░░░░░░   51.28 %
-Batchfile    7 mins          ████████▓░░░░░░░░░░░░░░░░   34.87 %
-TypeScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C             3 hrs 28 mins   ███████████████░░░░░░░░░░   59.90 %
+Batchfile     1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.12 %
+JSON          27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+CMake         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Objective-C   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
