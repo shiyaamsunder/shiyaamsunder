@@ -47,7 +47,10 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 <!--START_SECTION:waka-->
 
 ```text
-C   0 secs          █████████████████████████   100.00 %
+C             50 mins         ██████████████████▓░░░░░░   74.28 %
+Lua           15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
+Objective-C   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Batchfile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
