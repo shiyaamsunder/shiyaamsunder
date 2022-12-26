@@ -47,8 +47,7 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 <!--START_SECTION:waka-->
 
 ```text
-Lua    3 mins          █████████████████████▓░░░   87.23 %
-JSON   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
