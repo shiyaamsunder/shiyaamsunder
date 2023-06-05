@@ -48,7 +48,7 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
