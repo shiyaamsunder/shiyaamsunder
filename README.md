@@ -4,16 +4,16 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 
 ### Languages :
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks and Libraries: 
-
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
@@ -35,24 +35,9 @@ I'm Shiyaam Sunder. I love programming and movies. Most of my time is spent in f
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-**Checkout my recent project:**: [WindowsTerminalColorSchemes](http://github.com/shiyaamsunder/windows-terminal-colorschemes)
 
-- 🔭 I’m currently working on [Cineaste](https://github.com/shiyaamsunder/cineaste)
-- 🌱 I’m currently learning about vim and data structures in C.
+- 🔭 I’m currently working on [Matinee](https://github.com/shiyaamsunder/matinee)
+- 🌱 I’m currently learning about Advanced Java and System Design.
 ---
-
-
-<details>
-<summary><em>My Weekly coding stats:</em></summary>
-
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</details>
 
 
